@@ -1,0 +1,9 @@
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\şifre üretici\şifre üretici\bin\Release\şifre üretici.exe
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\şifre üretici\şifre üretici\bin\Release\şifre üretici.pdb
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\şifre üretici\şifre üretici\obj\x86\Release\ResolveAssemblyReference.cache
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\şifre üretici\şifre üretici\obj\x86\Release\şifre_üretici.Form1.resources
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\şifre üretici\şifre üretici\obj\x86\Release\şifre_üretici.Properties.Resources.resources
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\şifre üretici\şifre üretici\obj\x86\Release\GenerateResource.read.1.tlog
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\şifre üretici\şifre üretici\obj\x86\Release\GenerateResource.write.1.tlog
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\şifre üretici\şifre üretici\obj\x86\Release\şifre üretici.exe
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\şifre üretici\şifre üretici\obj\x86\Release\şifre üretici.pdb
